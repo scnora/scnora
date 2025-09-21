@@ -1,4 +1,4 @@
-##Hi, I am Sarai  👋
+## Hi, I am Sarai  👋
 
 👩‍💻I am a Computer Science Student at Rutgers University<br/>
 🧠Minor in Psychology<br/>
