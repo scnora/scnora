@@ -4,6 +4,7 @@
 🧠Minor in Psychology<br/>
 🎨Interested in Design and Tech! <br/>
 🍓Frontend Designer and Programmer <br/>
+🐞"practice makes progress not perfection" <br/>
 
 
 # 💻 Tech Stack:
