@@ -14,4 +14,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=scnora&icon=0&color=10)](https://visitcount.itsvg.in)
 
+[![Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/scnora/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
