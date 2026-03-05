@@ -20,8 +20,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scnora&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scnora&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scnora&theme=tokyonight)
 
 
